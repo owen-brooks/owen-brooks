@@ -1,6 +1,6 @@
 # Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Owen Brooks. I currently live in Philadelphia, PA and work as a Data Engineer at Bloomberg LP.
+My name is Owen Brooks. I currently live in Philadelphia, PA and work as a Quantative Developer at QMA (a quant fund under the PGIM umbrella).
 
 ## links
 
